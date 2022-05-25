@@ -15,6 +15,6 @@ resource "aws_s3_bucket" "jane" {
   bucket = "jane-bucket"
 
   tags = {
-    Name        = "jane-bucket-01-10-09983"
+    Name        = "hojane-bucket-081-10-09983"
   }
 }
